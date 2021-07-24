@@ -1,2 +1,2 @@
 # AHK-Collection
-Collection of AutoHotKey scripts for productivity.
+Personal collection of AHK scripts.
